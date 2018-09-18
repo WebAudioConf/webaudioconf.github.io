@@ -74,8 +74,8 @@
         "In this paper, we describe Audio Pipes; a chrome extension we developed that makes it possible to stream audio between any webpage that utilizes web audio. A script is injected on a webpage that checks whether audio is produced or consumed on the page. The user can then select which pages to connect, after which a WebRTC connection is made between those pages. We will present a use case in which the Watch That Sound webapp is connected as a consumer of various webpages that produce audio.",
       "authors": [
         {
-          "link": "http://smus.com/",
-          "name": "Boris Smus"
+          "link": "http://www.v2.nl/",
+          "name": "Jan Misker"
         },
         {
           "link": "http://www.watchthatsound.nl/",
