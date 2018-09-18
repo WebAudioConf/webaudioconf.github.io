@@ -76,6 +76,9 @@ export default class Schedule extends React.Component {
                   {entry.presentations && (
                     renderEntries(entry.presentations, 'presentations')
                   )}
+                  {entry.workshops && (
+                    renderEntries(entry.workshops, 'workshops')
+                  )}
                 </div>
               </div>
             )
@@ -115,9 +118,14 @@ function renderEntries(entries, baseUrl) {
     <ul className="schedule__entriesList">
       {entries.map((entry) => (
         <li key={`entry-${entry.slug}`}>
-          <InternalLink to={`/${baseUrl}/${entry.slug}`}>
-            {entry.title}
-          </InternalLink>
+          {baseUrl === 'workshops' && (
+            <div>{entry.title}</div>
+          )}
+          {baseUrl !== 'workshops' && (
+            <InternalLink to={`/${baseUrl}/${entry.slug}`}>
+              {entry.title}
+            </InternalLink>
+          )}
           <div>{joinAuthors(entry.authors)}</div>
         </li>
       ))}
@@ -337,18 +345,55 @@ const schedule = {
       },
       {
         startTime: Date.UTC(2018, 8, 21, 8, 30),
-        endTime: Date.UTC(2018, 8, 21, 10, 30),
-        title: 'Workshops'
+        endTime: Date.UTC(2018, 8, 21, 11, 30),
+        title: 'Workshops',
+        workshops: [
+          {
+            authors: [
+              {
+                name: 'Michel Buffa'
+              },
+              {
+                name: 'Stéphane Letz'
+              }
+            ],
+            slug: 'webaudio-plugins-wap',
+            title: 'WebAudio Plugins (WAP)'
+          },
+          {
+            authors: [
+              {
+                name: 'Jesse Allison'
+              }
+            ],
+            slug: 'utilizing-nexushub-and-docker-for-distributed-performance',
+            title: 'Utilizing NexusHUB and Docker for Distributed Performance'
+          }
+        ]
       },
       {
-        startTime: Date.UTC(2018, 8, 21, 10, 30),
-        endTime: Date.UTC(2018, 8, 21, 12, 0),
+        startTime: Date.UTC(2018, 8, 21, 11, 30),
+        endTime: Date.UTC(2018, 8, 21, 13, 0),
         title: 'Lunch break'
       },
       {
-        startTime: Date.UTC(2018, 8, 21, 12, 0),
-        endTime: Date.UTC(2018, 8, 21, 16, 0),
-        title: 'Workshops'
+        startTime: Date.UTC(2018, 8, 21, 13, 0),
+        endTime: Date.UTC(2018, 8, 21, 17, 0),
+        title: 'Workshops',
+        workshops: [
+          {
+            authors: [
+              {
+                name: 'Jari Kleimola'
+              },
+              {
+                name: 'Oliver Larkin'
+              }
+            ],
+            slug: 'building-vst-like-online-instruments-and-effects-with-eeb-audio-modules-wams-and-iplug2',
+            title: 'Building VST-like online instruments and effects with Web Audio Modules (WAMs) and iPlug2'
+          }
+        ]
       },
       {
         startTime: Date.UTC(2018, 8, 21, 16, 0),
