@@ -839,18 +839,6 @@
     },
     {
       "abstract":
-        "This talk will give an overview about the current state of timing on the web and the problems this presents when trying to sync multiple sources of multimedia. Examples demonstrated will include setTimeout, webaudio ‘currentTime’, DOMHighResTimeStamp, and html5 media timing. The concept of the TimingObject will introduce the initiative for a unifying time model for varying sources of multimedia presented on a single device, as well as multi device web support.",
-      "authors": [
-        {
-          "link": "http://naomiaro.github.io/",
-          "name": "Naomi Aro"
-        }
-      ],
-      "slug": "orchestrate-your-web",
-      "title": "Orchestrate Your Web!"
-    },
-    {
-      "abstract":
         "2018 is the year deep neural networks have arrived in the web browser. This development has many exciting prospects. One of them is that all the work AI researchers have put into musical applications of neural nets is suddenly available to use in web apps. We can now use generative musical deep learning models and build interactive web-based experiences on top of them, with the help of Web Audio and the rest of the web platform.\n\nIn this talk I will present some recent experiments I’ve made using deep neural nets and Web Audio in the browser. They’re mostly based on Google’s Magenta.js library and neural net models trained by the Magenta team. We’ll see how recurrent neural networks can be used to build melodic “autocompletion” tools and arpeggiators, as well as generative drum patterns. We’ll also see how to use variational autoencoder models to explore latent musical spaces: Interpolating between melodies, and exploring musical generative space with vector arithmetic.",
       "authors": [
         {

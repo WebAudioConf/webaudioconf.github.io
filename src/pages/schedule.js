@@ -264,7 +264,6 @@ const schedule = {
           'iplug2-desktop-plug-in-framework-meets-web-audio-modules',
           'native-web-audio-api-plugins',
           'latency-and-synchronization-in-web-audio',
-          'orchestrate-your-web',
           'the-timing-object-a-pacemaker-for-the-web'
         ].map((slug) => findPresentationBySlug(acceptedSubmissions, slug))
       },
