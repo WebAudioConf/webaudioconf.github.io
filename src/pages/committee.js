@@ -111,7 +111,7 @@ const Committee = () => (
     >
       <p>Jan Monschke is a frontend engineer working at SoundCloud in Berlin. He works on the main web app, as well as the Xbox app and occasionally some of the mobile apps.</p>
       <p>He discovered his interest in the Web Audio API when he was writing his master’s thesis on building a fully collaborative DAW purely with web technology. This project was presented at the very first Web Audio Conference in Paris in 2015.</p>
-      <p>Nowadays his main music-related focus is his Web Audio Band the <Link href="https://www.youtube.com/watch?v=lCn-XCASn98">nested_loops</Link> who is regularly performing at the biggest JavaScript conference in europe.</p>
+      <p>Nowadays his main music-related focus is his Web Audio Band the <Link href="https://www.youtube.com/watch?v=W0MvW2jaW8g">nested_loops</Link> who is regularly performing at the biggest JavaScript conference in europe.</p>
       <p>
         <Website url='http://janmonschke.com/' /><br />
         <GitHub account='janmonschke' /><br />
