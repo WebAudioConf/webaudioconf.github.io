@@ -139,7 +139,7 @@ const schedule = {
     entries: [
       {
         startTime: Date.UTC(2018, 8, 19, 6, 0),
-        endTime: Date.UTC(2018, 9, 19, 7, 0),
+        endTime: Date.UTC(2018, 8, 19, 7, 0),
         title: 'Registration',
         description: 'Get your conference badge and mingle with other attendees',
         location: {
@@ -235,8 +235,8 @@ const schedule = {
     title: 'Thursday, Sept 20th',
     entries: [
       {
-        startTime: Date.UTC(2018, 8, 19, 6, 0),
-        endTime: Date.UTC(2018, 9, 19, 7, 0),
+        startTime: Date.UTC(2018, 8, 20, 6, 0),
+        endTime: Date.UTC(2018, 8, 20, 7, 0),
         title: 'Registration',
         description: 'Get your conference badge and mingle with other attendees',
         location: {
@@ -245,19 +245,19 @@ const schedule = {
         }
       },
       {
-        startTime: Date.UTC(2018, 8, 19, 7, 0),
-        endTime: Date.UTC(2018, 8, 19, 8, 0),
+        startTime: Date.UTC(2018, 8, 20, 7, 0),
+        endTime: Date.UTC(2018, 8, 20, 8, 0),
         title: 'Keynote',
         description: <InternalLink to="/keynotes#chris-rogers">The second keynote of WAC 2018 by Chris Rogers</InternalLink>
       },
       {
-        startTime: Date.UTC(2018, 8, 19, 8, 0),
-        endTime: Date.UTC(2018, 8, 19, 8, 30),
+        startTime: Date.UTC(2018, 8, 20, 8, 0),
+        endTime: Date.UTC(2018, 8, 20, 8, 30),
         title: 'Coffee & Tea break'
       },
       {
-        startTime: Date.UTC(2018, 8, 19, 8, 30),
-        endTime: Date.UTC(2018, 8, 19, 10, 30),
+        startTime: Date.UTC(2018, 8, 20, 8, 30),
+        endTime: Date.UTC(2018, 8, 20, 10, 30),
         title: 'Presentations: Plugins & Timing',
         presentations: [
           'wap-ideas-for-a-web-audio-plug-in-standard',
@@ -268,13 +268,13 @@ const schedule = {
         ].map((slug) => findPresentationBySlug(acceptedSubmissions, slug))
       },
       {
-        startTime: Date.UTC(2018, 8, 19, 10, 30),
-        endTime: Date.UTC(2018, 8, 19, 12, 0),
+        startTime: Date.UTC(2018, 8, 20, 10, 30),
+        endTime: Date.UTC(2018, 8, 20, 12, 0),
         title: 'Lunch break'
       },
       {
-        startTime: Date.UTC(2018, 8, 19, 12, 0),
-        endTime: Date.UTC(2018, 8, 19, 14, 0),
+        startTime: Date.UTC(2018, 8, 20, 12, 0),
+        endTime: Date.UTC(2018, 8, 20, 14, 0),
         title: 'Presentations: Libraries & Tools',
         presentations: [
           'cables—a-web-based-visual-programming-language-for-webgl-and-web-audio',
@@ -284,8 +284,8 @@ const schedule = {
         ].map((slug) => findPresentationBySlug(acceptedSubmissions, slug))
       },
       {
-        startTime: Date.UTC(2018, 8, 19, 14, 0),
-        endTime: Date.UTC(2018, 8, 19, 16, 0),
+        startTime: Date.UTC(2018, 8, 20, 14, 0),
+        endTime: Date.UTC(2018, 8, 20, 16, 0),
         title: 'Demos, Posters and Installations',
         description: `
           Check out a variety of demos, posters and installations in various locations on the campus.
@@ -309,8 +309,8 @@ const schedule = {
         ].map((slug) => findInstallationBySlug(acceptedSubmissions, slug))
       },
       {
-        startTime: Date.UTC(2018, 8, 19, 17, 0),
-        endTime: Date.UTC(2018, 8, 19, 20, 0),
+        startTime: Date.UTC(2018, 8, 20, 17, 0),
+        endTime: Date.UTC(2018, 8, 20, 20, 0),
         title: 'Dinner',
         description: <div>
           <p>We are preparing a very special audio-enhanced dinner together with <Link href="http://www.audiogustatory.com/">Ben Houge</Link> and <Link href="http://www.brlo-brwhouse.de/">BRLO</Link>.</p>
