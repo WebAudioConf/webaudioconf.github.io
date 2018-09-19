@@ -10,6 +10,7 @@ const IndexPage = () => (
     <Announcement>
       🎼🌐🎁 We are sold out! 🎁🌐🎼
     </Announcement>
+    <iframe frameborder="0" height="360" id="ytplayer" src="http://www.youtube.com/embed/9VUBefUqq2Y?autoplay=1&origin=https://webaudioconf.com" type="text/html" width="640"/>
     <div className="index__splash">
       <h1 className="index__headline">
         <span itemProp="name">Web Audio Conf</span><span className="index__headlineDelimiter"> | </span><span itemProp="location">Berlin</span>
