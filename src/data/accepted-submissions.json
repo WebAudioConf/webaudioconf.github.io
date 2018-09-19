@@ -499,6 +499,17 @@
     },
     {
       "abstract":
+        "No merge conflicts is a participatory performance based on web audio technologies. Participants use their smartphones to access a synthesizer that produces audiovisual signals following touch and accelerometer gestures. An artificial agent character selects and evolves the audience patterns into an audiovisual algorithmic composition played through the sound system and projector.",
+      "authors": [
+        {
+          "name": "Gerard Roma"
+        }
+      ],
+      "slug": "no-merge-conflicts",
+      "title": "No merge conflicts"
+    },
+    {
+      "abstract":
         "This performance will be the first to use a completely rewritten version of Gibber, taking advantage of music programming techniques found in the live-coding environment gibberwocky, and upgraded versions of multiple audio libraries designed to take advantage of AudioWorklets.",
       "authors": [
         {
@@ -519,17 +530,6 @@
       ],
       "slug": "listening-back-the-web-never-forgets",
       "title": "Listening Back - The Web Never Forgets"
-    },
-    {
-      "abstract":
-        "No merge conflicts is a participatory performance based on web audio technologies. Participants use their smartphones to access a synthesizer that produces audiovisual signals following touch and accelerometer gestures. An artificial agent character selects and evolves the audience patterns into an audiovisual algorithmic composition played through the sound system and projector.",
-      "authors": [
-        {
-          "name": "Gerard Roma"
-        }
-      ],
-      "slug": "no-merge-conflicts",
-      "title": "No merge conflicts"
     },
     {
       "abstract":
