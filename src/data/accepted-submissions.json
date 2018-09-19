@@ -468,6 +468,17 @@
   ],
   "performances": [
     {
+      "abstract": "This audience devices participative performance combines symphonic orchestra with the choir of smartphones. Author tried different approaches to synchronisation of acoustic instruments and audience devices: tonal synchronisation with fine tuning of all samples and synthesis engine, latency compensation depending on device type and network latency, tempo calculation e.t.c.. This performance significantly depends on Web Audio API and Web MIDI API.",
+      "authors": [
+        {
+          "link": "http://bundin.info/",
+          "name": "Andrey Bundin"
+        }
+      ],
+      "slug": "concert-for-smartphones-and-orchestra",
+      "title": "Concert for Smartphones and Orchestra"
+    },
+    {
       "abstract":
         "In this performance, we propose an interpretation of Gertrude Steins' poem Tender Buttons, using Playsound.space participatory player to create a soundscape generated live from the text contents. Two performers will dialogue through the chat interface with excerpts of the text while a reading of the poem runs on the background. While the text is render, searches on the system will be made, to access Freesound.org Creative Commons content to create a music improvisation based on the piece.",
       "authors": [
@@ -530,18 +541,6 @@
       ],
       "slug": "improvisation",
       "title": "Improvisation"
-    },
-    {
-      "abstract":
-        "This audience devices participative performance combines symphonic orchestra with the choir of smartphones. Author tried different approaches to synchronisation of acoustic instruments and audience devices: tonal synchronisation with fine tuning of all samples and synthesis engine, latency compensation depending on device type and network latency, tempo calculation e.t.c.. This performance significantly depends on Web Audio API and Web MIDI API.",
-      "authors": [
-        {
-          "link": "http://bundin.info/",
-          "name": "Andrey Bundin"
-        }
-      ],
-      "slug": "concert-for-smartphones-and-orchestra",
-      "title": "Concert for Smartphones and Orchestra"
     }
   ],
   "posters": [
