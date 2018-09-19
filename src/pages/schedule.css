@@ -1,3 +1,12 @@
+.schedule__headlineContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.schedule__live {
+  padding: 0 10px;
+}
+
 .schedule__headlineDay {
   padding-bottom: 10px;
   border-bottom: 2px solid #333;
@@ -17,7 +26,7 @@
 }
 
 .schedule__entry.m-current {
-  background-color: rgba(0,0,0,0.05);
+  background-color: rgba(0, 0, 0, 0.05);
   margin-left: -1.5rem;
   margin-right: -1.5rem;
   padding-left: 1.5rem;
@@ -33,7 +42,7 @@
 }
 
 .schedule__entryInfo {
-  width: 75%
+  width: 75%;
 }
 
 .schedule__entryTitle {
@@ -59,7 +68,7 @@
   margin-top: 1rem;
 }
 
-@media (max-width : 480px) {
+@media (max-width: 480px) {
   .schedule__entry {
     flex-direction: column;
   }
