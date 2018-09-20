@@ -35,7 +35,7 @@ export default class Schedule extends React.Component {
         <div className="schedule__timeTable">
           {day.entries.map(entry => {
             const isCurrent =
-              currenTime && currentTime >= entry.startTime && currentTime <= entry.endTime;
+              currentTime && currentTime >= entry.startTime && currentTime <= entry.endTime;
             const entryStart = utcTSToBerlinTZ(entry.startTime);
             const entryEnd = utcTSToBerlinTZ(entry.endTime);
 
