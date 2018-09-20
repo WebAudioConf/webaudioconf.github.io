@@ -10,9 +10,10 @@ import { findPresentationBySlug } from "../helpers/find-presentation-by-slug";
 import "./schedule.css";
 
 export default class Schedule extends React.Component {
-  state = {};
+  state = { currentTime: null };
 
   componentDidMount() {
+    this.updateTime();
     this.updateHandle = setInterval(this.updateTime, 1000 * 60);
   }
 
@@ -27,14 +28,14 @@ export default class Schedule extends React.Component {
   };
 
   renderDay = day => {
-    const currentTime = this.state.currentTime || nowInUTC();
+    const currentTime = this.state.currentTime; // null when ssr
     return (
       <div className="schedule__day">
         <h2 className="schedule__headlineDay">{day.title}</h2>
         <div className="schedule__timeTable">
           {day.entries.map(entry => {
             const isCurrent =
-              currentTime >= entry.startTime && currentTime <= entry.endTime;
+              currentTime && currentTime >= entry.startTime && currentTime <= entry.endTime;
             const entryStart = utcTSToBerlinTZ(entry.startTime);
             const entryEnd = utcTSToBerlinTZ(entry.endTime);
 
