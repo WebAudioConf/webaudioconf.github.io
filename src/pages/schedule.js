@@ -408,7 +408,7 @@ const schedule = {
       },
       {
         startTime: Date.UTC(2018, 8, 21, 13, 0),
-        endTime: Date.UTC(2018, 8, 21, 17, 0),
+        endTime: Date.UTC(2018, 8, 21, 16, 0),
         title: "Workshops",
         workshops: [
           {
