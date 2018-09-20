@@ -11,7 +11,7 @@ const IndexPage = () => (
       🎼🌐🎁 We are sold out! 🎁🌐🎼
     </Announcement>
     <div className="videoWrapper">
-      <iframe allowFullScreen frameBorder={0} src="https://www.youtube.com/embed/9VUBefUqq2Y?autoplay=1&origin=https://webaudioconf.com" type="text/html"/>
+      <iframe allowFullScreen frameBorder={0} src="https://www.youtube.com/embed/W0MvW2jaW8g?autoplay=1&origin=https://webaudioconf.com" type="text/html"/>
     </div>
     <div className="index__splash">
       <h1 className="index__headline">
