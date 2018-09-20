@@ -219,7 +219,6 @@ const schedule = {
           "0plus1equalssom-bringing-computing-closer-to-children-through-music"
         ].map(slug => findDemoOrPosterBySlug(acceptedSubmissions, slug)),
         installations: [
-          "a-more-perfect-union",
           "33-null-and-automatic-writing"
         ].map(slug => findInstallationBySlug(acceptedSubmissions, slug))
       },
@@ -319,7 +318,10 @@ const schedule = {
           "multi-web-audio-sequencer-collaborative-music-making",
           "lost-in-space"
         ].map(slug => findDemoOrPosterBySlug(acceptedSubmissions, slug)),
-        installations: ["kom-bp-o"].map(slug =>
+        installations: [
+          "kom-bp-o",
+          "a-more-perfect-union"
+        ].map(slug =>
           findInstallationBySlug(acceptedSubmissions, slug)
         )
       },
