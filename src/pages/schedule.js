@@ -35,7 +35,9 @@ export default class Schedule extends React.Component {
         <div className="schedule__timeTable">
           {day.entries.map(entry => {
             const isCurrent =
-              currentTime && currentTime >= entry.startTime && currentTime <= entry.endTime;
+              currentTime &&
+              currentTime >= entry.startTime &&
+              currentTime <= entry.endTime;
             const entryStart = utcTSToBerlinTZ(entry.startTime);
             const entryEnd = utcTSToBerlinTZ(entry.endTime);
 
@@ -131,6 +133,11 @@ function renderEntries(entries, baseUrl) {
             </InternalLink>
           )}
           <div>{joinAuthors(entry.authors)}</div>
+          {entry.location && (
+            <p>
+              <emph>Location: {entry.location}</emph>
+            </p>
+          )}
         </li>
       ))}
     </ul>
@@ -219,9 +226,9 @@ const schedule = {
           "live-coding-drum-machine",
           "0plus1equalssom-bringing-computing-closer-to-children-through-music"
         ].map(slug => findDemoOrPosterBySlug(acceptedSubmissions, slug)),
-        installations: [
-          "33-null-and-automatic-writing"
-        ].map(slug => findInstallationBySlug(acceptedSubmissions, slug))
+        installations: ["33-null-and-automatic-writing"].map(slug =>
+          findInstallationBySlug(acceptedSubmissions, slug)
+        )
       },
       {
         startTime: Date.UTC(2018, 8, 19, 17, 30),
@@ -319,10 +326,7 @@ const schedule = {
           "multi-web-audio-sequencer-collaborative-music-making",
           "lost-in-space"
         ].map(slug => findDemoOrPosterBySlug(acceptedSubmissions, slug)),
-        installations: [
-          "kom-bp-o",
-          "a-more-perfect-union"
-        ].map(slug =>
+        installations: ["kom-bp-o", "a-more-perfect-union"].map(slug =>
           findInstallationBySlug(acceptedSubmissions, slug)
         )
       },
@@ -391,7 +395,8 @@ const schedule = {
               }
             ],
             slug: "webaudio-plugins-wap",
-            title: "WebAudio Plugins (WAP)"
+            title: "WebAudio Plugins (WAP)",
+            location: "Lecture Hall E20"
           },
           {
             authors: [
@@ -400,7 +405,8 @@ const schedule = {
               }
             ],
             slug: "utilizing-nexushub-and-docker-for-distributed-performance",
-            title: "Utilizing NexusHUB and Docker for Distributed Performance"
+            title: "Utilizing NexusHUB and Docker for Distributed Performance",
+            location: "Studios"
           }
         ]
       },
@@ -426,7 +432,8 @@ const schedule = {
             slug:
               "building-vst-like-online-instruments-and-effects-with-eeb-audio-modules-wams-and-iplug2",
             title:
-              "Building VST-like online instruments and effects with Web Audio Modules (WAMs) and iPlug2"
+              "Building VST-like online instruments and effects with Web Audio Modules (WAMs) and iPlug2",
+            location: "Lecture Hall E20"
           }
         ]
       },
