@@ -8,7 +8,7 @@ import './index.css';
 const IndexPage = () => (
   <section itemScope itemType="http://schema.org/Event">
     <Announcement>
-      🎼🌐🎁 We are sold out! 🎁🌐🎼
+      🎼🌐🎁 We published all videos on <Link href="https://www.youtube.com/playlist?list=PLQ9S5oqvpyWm2-HDGnQWWlX30pqYlb_Rz">YouTube</Link>! 🎁🌐🎼
     </Announcement>
     <div className="index__splash">
       <h1 className="index__headline">
