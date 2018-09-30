@@ -315,6 +315,7 @@ const schedule = {
         `,
         demosAndPosters: [
           "guitarists-will-be-happy-guitar-tube-amp-simulators-and-fx-pedal-in-a-virtual-pedal-board-and-more",
+          "webaudio-virtual-tube-guitar-amps-and-pedal-board-design",
           "fugue-step—a-multi-playhead-sequencer",
           "transmitting-data-over-the-air-using-the-web-audio-api",
           "audio-pipes-connecting-web-audio-between-any-page",
