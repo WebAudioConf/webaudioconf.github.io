@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import ExternalLink from '../components/link';
 import Twitter from '../components/twitter';
 import Announcement from '../components/announcement';
 
@@ -8,7 +9,7 @@ import './index.css';
 const IndexPage = () => (
   <section itemScope itemType="http://schema.org/Event">
     <Announcement>
-      🎼🌐🎁 We published all videos on <Link href="https://www.youtube.com/playlist?list=PLQ9S5oqvpyWm2-HDGnQWWlX30pqYlb_Rz">YouTube</Link>! 🎁🌐🎼
+      🎼🌐🎁 We published all videos on <ExternalLink href="https://www.youtube.com/playlist?list=PLQ9S5oqvpyWm2-HDGnQWWlX30pqYlb_Rz">YouTube</ExternalLink>! 🎁🌐🎼
     </Announcement>
     <div className="index__splash">
       <h1 className="index__headline">
