@@ -39,6 +39,22 @@
   left: -5000px;
 }
 
+.index__tuLogo {
+  float: left;
+  width: 50%;
+}
+
+.index__hfuLogo {
+  display: block;
+  margin: 5% auto;
+  width: 80%;
+}
+
+.index__audiokommunikationLogo {
+  float: right;
+  width: 35%;
+}
+
 @media (max-width: 650px) {
   .index__headlineDelimiter {
     display: block;
