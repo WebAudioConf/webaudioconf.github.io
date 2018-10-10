@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'gatsby-link';
+import Link, { withPrefix } from 'gatsby-link';
 import ExternalLink from '../components/link';
 import Twitter from '../components/twitter';
 import Announcement from '../components/announcement';
@@ -54,6 +54,25 @@ const IndexPage = () => (
         </form>
       </div>
     </div>
+
+    <div className="row">
+      <div className="four columns">
+        <ExternalLink href="https://www.tu-berlin.de">
+          <img className="index__tuLogo" src={withPrefix('tu-logo.png')} />
+        </ExternalLink>
+      </div>
+      <div className="four columns">
+        <ExternalLink href="https://www.hs-furtwangen.de">
+          <img className="index__hfuLogo" src={withPrefix('hfu-logo.png')} />
+        </ExternalLink>
+      </div>
+      <div className="four columns">
+        <ExternalLink href="https://www.foerderverein-audiokommunikation.de">
+          <img className="index__audiokommunikationLogo" src={withPrefix('audiokommunikation-logo.png')} />
+        </ExternalLink>
+      </div>
+    </div>
+
   </section>
 )
 
