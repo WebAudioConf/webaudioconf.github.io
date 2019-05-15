@@ -1,0 +1,2 @@
+webpackJsonp([26583460074818],{462:function(e,t){e.exports={pathContext:{abstract:"This performance will be the first to use a completely rewritten version of Gibber, taking advantage of music programming techniques found in the live-coding environment gibberwocky, and upgraded versions of multiple audio libraries designed to take advantage of AudioWorklets.",authors:[{name:"Charles Roberts"}],slug:"improvisation",title:"Improvisation",type:"performance"}}}});
+//# sourceMappingURL=path---performances-improvisation-ed4d9629b6ef3b46aa85.js.map

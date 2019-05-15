@@ -1,0 +1,316 @@
+{
+  "assetsByChunkName": {
+    "path---presentations-native-web-audio-api-plugins": [
+      "path---presentations-native-web-audio-api-plugins-d8846a1667f44d826081.js",
+      "path---presentations-native-web-audio-api-plugins-d8846a1667f44d826081.js.map"
+    ],
+    "path---committee": [
+      "path---committee-a0e39f21c11f6a62c5ab.js",
+      "path---committee-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---demos-and-posters-combining-web-audio-streaming-motion-capture-and-binaural-audio-in-a-telepresence-system": [
+      "path---demos-and-posters-combining-web-audio-streaming-motion-capture-and-binaural-audio-in-a-telepresence-system-77180453313a85119c5a.js",
+      "path---demos-and-posters-combining-web-audio-streaming-motion-capture-and-binaural-audio-in-a-telepresence-system-77180453313a85119c5a.js.map"
+    ],
+    "component---src-pages-committee-js": [
+      "component---src-pages-committee-js-13d4b79faf136d8a018a.js",
+      "component---src-pages-committee-js-13d4b79faf136d8a018a.js.map"
+    ],
+    "path---presentations-ambient-html-5-music-for-tiny-airports-in-256-bytes": [
+      "path---presentations-ambient-html-5-music-for-tiny-airports-in-256-bytes-29080617f51f7783c82a.js",
+      "path---presentations-ambient-html-5-music-for-tiny-airports-in-256-bytes-29080617f51f7783c82a.js.map"
+    ],
+    "path---performances-improvisation": [
+      "path---performances-improvisation-ed4d9629b6ef3b46aa85.js",
+      "path---performances-improvisation-ed4d9629b6ef3b46aa85.js.map"
+    ],
+    "path---sponsors": [
+      "path---sponsors-a0e39f21c11f6a62c5ab.js",
+      "path---sponsors-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-134f3b9f77868057fd4d.js",
+      "component---src-pages-index-js-134f3b9f77868057fd4d.js.map"
+    ],
+    "path---demos-and-posters-loop-based-graphical-live-coded-music-in-the-browser": [
+      "path---demos-and-posters-loop-based-graphical-live-coded-music-in-the-browser-4e218b6418b9ae7644d9.js",
+      "path---demos-and-posters-loop-based-graphical-live-coded-music-in-the-browser-4e218b6418b9ae7644d9.js.map"
+    ],
+    "path---performances-imaginary-berlin": [
+      "path---performances-imaginary-berlin-711ae0a61649a17f4877.js",
+      "path---performances-imaginary-berlin-711ae0a61649a17f4877.js.map"
+    ],
+    "component---src-pages-schedule-js": [
+      "component---src-pages-schedule-js-a6d1a3357ded2f2575aa.js",
+      "component---src-pages-schedule-js-a6d1a3357ded2f2575aa.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---demos-and-posters-pywebaudioplayer-bridging-the-gap-between-audio-processing-code-in-python-and-attractive-visualisations-based-on-web-technology": [
+      "path---demos-and-posters-pywebaudioplayer-bridging-the-gap-between-audio-processing-code-in-python-and-attractive-visualisations-based-on-web-technology-ce7a4e3c6d98a5dd38cd.js",
+      "path---demos-and-posters-pywebaudioplayer-bridging-the-gap-between-audio-processing-code-in-python-and-attractive-visualisations-based-on-web-technology-ce7a4e3c6d98a5dd38cd.js.map"
+    ],
+    "path---demos-and-posters-transmitting-data-over-the-air-using-the-web-audio-api": [
+      "path---demos-and-posters-transmitting-data-over-the-air-using-the-web-audio-api-e8a54812f001d1032391.js",
+      "path---demos-and-posters-transmitting-data-over-the-air-using-the-web-audio-api-e8a54812f001d1032391.js.map"
+    ],
+    "path---info": [
+      "path---info-a0e39f21c11f6a62c5ab.js",
+      "path---info-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---presentations-exploring-real-time-visualisations-to-support-chord-learning-with-a-large-music-collection": [
+      "path---presentations-exploring-real-time-visualisations-to-support-chord-learning-with-a-large-music-collection-cede737666c42b056825.js",
+      "path---presentations-exploring-real-time-visualisations-to-support-chord-learning-with-a-large-music-collection-cede737666c42b056825.js.map"
+    ],
+    "path---performances-listening-back-the-web-never-forgets": [
+      "path---performances-listening-back-the-web-never-forgets-f27cb734514bd6ae407e.js",
+      "path---performances-listening-back-the-web-never-forgets-f27cb734514bd6ae407e.js.map"
+    ],
+    "component---src-pages-keynotes-js": [
+      "component---src-pages-keynotes-js-8d62209a7c4c767617dd.js",
+      "component---src-pages-keynotes-js-8d62209a7c4c767617dd.js.map"
+    ],
+    "path---keynotes": [
+      "path---keynotes-a0e39f21c11f6a62c5ab.js",
+      "path---keynotes-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---presentations-iplug-2-desktop-plug-in-framework-meets-web-audio-modules": [
+      "path---presentations-iplug-2-desktop-plug-in-framework-meets-web-audio-modules-e87c274877b47c4604cd.js",
+      "path---presentations-iplug-2-desktop-plug-in-framework-meets-web-audio-modules-e87c274877b47c4604cd.js.map"
+    ],
+    "path---demos-and-posters-live-coding-drum-machine": [
+      "path---demos-and-posters-live-coding-drum-machine-5364aac9ec1631f6f5f0.js",
+      "path---demos-and-posters-live-coding-drum-machine-5364aac9ec1631f6f5f0.js.map"
+    ],
+    "path---installations-a-more-perfect-union": [
+      "path---installations-a-more-perfect-union-2c9f09f66d6552eb9be6.js",
+      "path---installations-a-more-perfect-union-2c9f09f66d6552eb9be6.js.map"
+    ],
+    "path---presentations-dsp-2-js-a-cplusplus-framework-for-the-development-of-in-browser-dsps": [
+      "path---presentations-dsp-2-js-a-cplusplus-framework-for-the-development-of-in-browser-dsps-e859c634f9b7f2448d7d.js",
+      "path---presentations-dsp-2-js-a-cplusplus-framework-for-the-development-of-in-browser-dsps-e859c634f9b7f2448d7d.js.map"
+    ],
+    "path---demos-and-posters-web-wall-whispers": [
+      "path---demos-and-posters-web-wall-whispers-cd30b95244c8c5a5026c.js",
+      "path---demos-and-posters-web-wall-whispers-cd30b95244c8c5a5026c.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-9995d27efcc0a5d5188d.js",
+      "component---src-layouts-index-js-9995d27efcc0a5d5188d.js.map"
+    ],
+    "path---demos-and-posters-a-user-adaptive-automated-dj-web-app-with-object-based-audio-and-crowd-sourced-decision-trees": [
+      "path---demos-and-posters-a-user-adaptive-automated-dj-web-app-with-object-based-audio-and-crowd-sourced-decision-trees-82a430dccec9168c53e5.js",
+      "path---demos-and-posters-a-user-adaptive-automated-dj-web-app-with-object-based-audio-and-crowd-sourced-decision-trees-82a430dccec9168c53e5.js.map"
+    ],
+    "path---presentations-a-javascript-library-for-flexible-visualization-of-audio-descriptors": [
+      "path---presentations-a-javascript-library-for-flexible-visualization-of-audio-descriptors-d53416bbb81f652ef3c4.js",
+      "path---presentations-a-javascript-library-for-flexible-visualization-of-audio-descriptors-d53416bbb81f652ef3c4.js.map"
+    ],
+    "path---demos-and-posters-soundsling-a-framework-for-using-creative-motion-data-to-pan-audio-across-a-mobile-device-speaker-array": [
+      "path---demos-and-posters-soundsling-a-framework-for-using-creative-motion-data-to-pan-audio-across-a-mobile-device-speaker-array-150acfde56917e355ec0.js",
+      "path---demos-and-posters-soundsling-a-framework-for-using-creative-motion-data-to-pan-audio-across-a-mobile-device-speaker-array-150acfde56917e355ec0.js.map"
+    ],
+    "path---presentations-websonify-ambient-aural-display-of-real-time-data": [
+      "path---presentations-websonify-ambient-aural-display-of-real-time-data-bb0a5dd3695c1ef5ae97.js",
+      "path---presentations-websonify-ambient-aural-display-of-real-time-data-bb0a5dd3695c1ef5ae97.js.map"
+    ],
+    "path---demos-and-posters-playsound-space-demo": [
+      "path---demos-and-posters-playsound-space-demo-a4ba624076326b1aa13b.js",
+      "path---demos-and-posters-playsound-space-demo-a4ba624076326b1aa13b.js.map"
+    ],
+    "path---presentations-r-audio-declarative-reactive-and-flexible-web-audio-graphs-in-react": [
+      "path---presentations-r-audio-declarative-reactive-and-flexible-web-audio-graphs-in-react-c31070197408f1faf868.js",
+      "path---presentations-r-audio-declarative-reactive-and-flexible-web-audio-graphs-in-react-c31070197408f1faf868.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---demos-and-posters-cena-concertante-alla-maniera-di-vivaldi-considering-the-testaurant-as-a-musical-interface": [
+      "path---demos-and-posters-cena-concertante-alla-maniera-di-vivaldi-considering-the-testaurant-as-a-musical-interface-8b4504d6eabb961fcdda.js",
+      "path---demos-and-posters-cena-concertante-alla-maniera-di-vivaldi-considering-the-testaurant-as-a-musical-interface-8b4504d6eabb961fcdda.js.map"
+    ],
+    "path---presentations-the-timing-object-a-pacemaker-for-the-web": [
+      "path---presentations-the-timing-object-a-pacemaker-for-the-web-ce2c0de8ade5a7c858c8.js",
+      "path---presentations-the-timing-object-a-pacemaker-for-the-web-ce2c0de8ade5a7c858c8.js.map"
+    ],
+    "path---presentations-participatory-musical-improvisations-with-playsound-space": [
+      "path---presentations-participatory-musical-improvisations-with-playsound-space-4b067d2367abac3cadad.js",
+      "path---presentations-participatory-musical-improvisations-with-playsound-space-4b067d2367abac3cadad.js.map"
+    ],
+    "path---demos-and-posters-dsp-filter-playground": [
+      "path---demos-and-posters-dsp-filter-playground-99608239914024bbd78a.js",
+      "path---demos-and-posters-dsp-filter-playground-99608239914024bbd78a.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---installations-33-null-and-automatic-writing": [
+      "path---installations-33-null-and-automatic-writing-281e6353a981d427452e.js",
+      "path---installations-33-null-and-automatic-writing-281e6353a981d427452e.js.map"
+    ],
+    "path---demos-and-posters-voiceful-voice-analysis-transformation-and-synthesis-on-the-web": [
+      "path---demos-and-posters-voiceful-voice-analysis-transformation-and-synthesis-on-the-web-b569fac7a56a6434b3a1.js",
+      "path---demos-and-posters-voiceful-voice-analysis-transformation-and-synthesis-on-the-web-b569fac7a56a6434b3a1.js.map"
+    ],
+    "commons": [
+      "commons-4b27998a015f6cb28774.js",
+      "build-js-styles.css",
+      "commons-4b27998a015f6cb28774.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---demos-and-posters-designing-movement-driven-audio-applications-using-a-web-based-interactive-machine-learning-toolkit": [
+      "path---demos-and-posters-designing-movement-driven-audio-applications-using-a-web-based-interactive-machine-learning-toolkit-264cfe5c9c71a638511b.js",
+      "path---demos-and-posters-designing-movement-driven-audio-applications-using-a-web-based-interactive-machine-learning-toolkit-264cfe5c9c71a638511b.js.map"
+    ],
+    "component---src-pages-call-for-submissions-js": [
+      "component---src-pages-call-for-submissions-js-a5ec7399ba938f03a078.js",
+      "component---src-pages-call-for-submissions-js-a5ec7399ba938f03a078.js.map"
+    ],
+    "path---presentations-webassembly-audioworklet-csound": [
+      "path---presentations-webassembly-audioworklet-csound-be3c88185a7b7496b9ec.js",
+      "path---presentations-webassembly-audioworklet-csound-be3c88185a7b7496b9ec.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---presentations-musical-deep-neural-networks-in-the-browser": [
+      "path---presentations-musical-deep-neural-networks-in-the-browser-f240dcbbb3db7d585af2.js",
+      "path---presentations-musical-deep-neural-networks-in-the-browser-f240dcbbb3db7d585af2.js.map"
+    ],
+    "path---demos-and-posters-lost-in-space": [
+      "path---demos-and-posters-lost-in-space-58aeeae7fda285fa9149.js",
+      "path---demos-and-posters-lost-in-space-58aeeae7fda285fa9149.js.map"
+    ],
+    "path---presentations-from-artist-to-software-developer-and-back-a-celloist-s-perspective-on-web-audio": [
+      "path---presentations-from-artist-to-software-developer-and-back-a-celloist-s-perspective-on-web-audio-3ba00659cc3bd1dfa002.js",
+      "path---presentations-from-artist-to-software-developer-and-back-a-celloist-s-perspective-on-web-audio-3ba00659cc3bd1dfa002.js.map"
+    ],
+    "component---src-pages-sponsors-js": [
+      "component---src-pages-sponsors-js-e1289e967dcafabcf7a7.js",
+      "component---src-pages-sponsors-js-e1289e967dcafabcf7a7.js.map"
+    ],
+    "path---demos-and-posters-multi-web-audio-sequencer-collaborative-music-making": [
+      "path---demos-and-posters-multi-web-audio-sequencer-collaborative-music-making-3388fd0b69ff637fec6c.js",
+      "path---demos-and-posters-multi-web-audio-sequencer-collaborative-music-making-3388fd0b69ff637fec6c.js.map"
+    ],
+    "path---performances-no-merge-conflicts": [
+      "path---performances-no-merge-conflicts-d8414d0055e724975214.js",
+      "path---performances-no-merge-conflicts-d8414d0055e724975214.js.map"
+    ],
+    "path---performances-concert-for-smartphones-and-orchestra": [
+      "path---performances-concert-for-smartphones-and-orchestra-3bfb9450106a41fe08de.js",
+      "path---performances-concert-for-smartphones-and-orchestra-3bfb9450106a41fe08de.js.map"
+    ],
+    "path---demos-and-posters-a-more-perfect-union-composition-with-audience-controlled-smartphone-speaker-array-and-evolutionary-computer-music": [
+      "path---demos-and-posters-a-more-perfect-union-composition-with-audience-controlled-smartphone-speaker-array-and-evolutionary-computer-music-8ed8c97d9634e02a3e4b.js",
+      "path---demos-and-posters-a-more-perfect-union-composition-with-audience-controlled-smartphone-speaker-array-and-evolutionary-computer-music-8ed8c97d9634e02a3e4b.js.map"
+    ],
+    "path---presentations-latency-and-synchronization-in-web-audio": [
+      "path---presentations-latency-and-synchronization-in-web-audio-6c5011a28463aae0ddce.js",
+      "path---presentations-latency-and-synchronization-in-web-audio-6c5011a28463aae0ddce.js.map"
+    ],
+    "path---call-for-submissions": [
+      "path---call-for-submissions-a0e39f21c11f6a62c5ab.js",
+      "path---call-for-submissions-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---demos-and-posters-guitarists-will-be-happy-guitar-tube-amp-simulators-and-fx-pedal-in-a-virtual-pedal-board-and-more": [
+      "path---demos-and-posters-guitarists-will-be-happy-guitar-tube-amp-simulators-and-fx-pedal-in-a-virtual-pedal-board-and-more-350f1d05eecfe2a042aa.js",
+      "path---demos-and-posters-guitarists-will-be-happy-guitar-tube-amp-simulators-and-fx-pedal-in-a-virtual-pedal-board-and-more-350f1d05eecfe2a042aa.js.map"
+    ],
+    "path---presentations-generative-music-playful-visualizations-and-where-to-find-them": [
+      "path---presentations-generative-music-playful-visualizations-and-where-to-find-them-7b9d593f3b24021163b4.js",
+      "path---presentations-generative-music-playful-visualizations-and-where-to-find-them-7b9d593f3b24021163b4.js.map"
+    ],
+    "path---demos-and-posters-webaudio-virtual-tube-guitar-amps-and-pedal-board-design": [
+      "path---demos-and-posters-webaudio-virtual-tube-guitar-amps-and-pedal-board-design-c5b91ba3be0c08f42ce2.js",
+      "path---demos-and-posters-webaudio-virtual-tube-guitar-amps-and-pedal-board-design-c5b91ba3be0c08f42ce2.js.map"
+    ],
+    "component---src-pages-info-js": [
+      "component---src-pages-info-js-22080f3962a76ccec74f.js",
+      "component---src-pages-info-js-22080f3962a76ccec74f.js.map"
+    ],
+    "path---presentations-dspnode-real-time-remote-audio-rendering": [
+      "path---presentations-dspnode-real-time-remote-audio-rendering-63199cdc1cc47bacc17d.js",
+      "path---presentations-dspnode-real-time-remote-audio-rendering-63199cdc1cc47bacc17d.js.map"
+    ],
+    "path---presentations-wap-ideas-for-a-web-audio-plug-in-standard": [
+      "path---presentations-wap-ideas-for-a-web-audio-plug-in-standard-8325b60005b69be04774.js",
+      "path---presentations-wap-ideas-for-a-web-audio-plug-in-standard-8325b60005b69be04774.js.map"
+    ],
+    "path---presentations-cables-a-web-based-visual-programming-language-for-webgl-and-web-audio": [
+      "path---presentations-cables-a-web-based-visual-programming-language-for-webgl-and-web-audio-5154485a8db0832a1450.js",
+      "path---presentations-cables-a-web-based-visual-programming-language-for-webgl-and-web-audio-5154485a8db0832a1450.js.map"
+    ],
+    "app": [
+      "app-2bff7c0963e61d36ded5.js",
+      "build-js-styles.css",
+      "app-2bff7c0963e61d36ded5.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---demos-and-posters-body-movement-sonification-using-the-web-audio-api": [
+      "path---demos-and-posters-body-movement-sonification-using-the-web-audio-api-117ed15832c0e2835880.js",
+      "path---demos-and-posters-body-movement-sonification-using-the-web-audio-api-117ed15832c0e2835880.js.map"
+    ],
+    "path---presentations-metaprogramming-strategies-for-audioworklets": [
+      "path---presentations-metaprogramming-strategies-for-audioworklets-7ea44a182de480185f4e.js",
+      "path---presentations-metaprogramming-strategies-for-audioworklets-7ea44a182de480185f4e.js.map"
+    ],
+    "path---schedule": [
+      "path---schedule-a0e39f21c11f6a62c5ab.js",
+      "path---schedule-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-components-accepted-submission-js": [
+      "component---src-components-accepted-submission-js-b3c4b9f5fd62db28e0f3.js",
+      "component---src-components-accepted-submission-js-b3c4b9f5fd62db28e0f3.js.map"
+    ],
+    "path---demos-and-posters-utilizing-nexushub-and-docker-for-distributed-performance": [
+      "path---demos-and-posters-utilizing-nexushub-and-docker-for-distributed-performance-21455d26031b7d322391.js",
+      "path---demos-and-posters-utilizing-nexushub-and-docker-for-distributed-performance-21455d26031b7d322391.js.map"
+    ],
+    "path---demos-and-posters-0-plus-1-equalssom-bringing-computing-closer-to-children-through-music": [
+      "path---demos-and-posters-0-plus-1-equalssom-bringing-computing-closer-to-children-through-music-76b9dd66aa7c74152c9a.js",
+      "path---demos-and-posters-0-plus-1-equalssom-bringing-computing-closer-to-children-through-music-76b9dd66aa7c74152c9a.js.map"
+    ],
+    "component---src-pages-coc-js": [
+      "component---src-pages-coc-js-e17b7b46b57d7266bf41.js",
+      "component---src-pages-coc-js-e17b7b46b57d7266bf41.js.map"
+    ],
+    "path---demos-and-posters-audio-pipes-connecting-web-audio-between-any-page": [
+      "path---demos-and-posters-audio-pipes-connecting-web-audio-between-any-page-b341bda985d5151ef175.js",
+      "path---demos-and-posters-audio-pipes-connecting-web-audio-between-any-page-b341bda985d5151ef175.js.map"
+    ],
+    "path---presentations-collaborative-coding-with-music-two-case-studies-with-earsketch": [
+      "path---presentations-collaborative-coding-with-music-two-case-studies-with-earsketch-02ca76aae45c05b864b1.js",
+      "path---presentations-collaborative-coding-with-music-two-case-studies-with-earsketch-02ca76aae45c05b864b1.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---demos-and-posters-fugue-step-a-multi-playhead-sequencer": [
+      "path---demos-and-posters-fugue-step-a-multi-playhead-sequencer-057cbcb41f9ba78bb714.js",
+      "path---demos-and-posters-fugue-step-a-multi-playhead-sequencer-057cbcb41f9ba78bb714.js.map"
+    ],
+    "path---demos-and-posters-the-sound-of-bitcoin-sound-synthesis-with-cryptocurrency-trade-data": [
+      "path---demos-and-posters-the-sound-of-bitcoin-sound-synthesis-with-cryptocurrency-trade-data-d21236f62bf564dbf54c.js",
+      "path---demos-and-posters-the-sound-of-bitcoin-sound-synthesis-with-cryptocurrency-trade-data-d21236f62bf564dbf54c.js.map"
+    ],
+    "path---coc": [
+      "path---coc-a0e39f21c11f6a62c5ab.js",
+      "path---coc-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---installations-kom-bp-o": [
+      "path---installations-kom-bp-o-0adc9a99599feab02204.js",
+      "path---installations-kom-bp-o-0adc9a99599feab02204.js.map"
+    ],
+    "path---performances-tender-buttons-sound-space": [
+      "path---performances-tender-buttons-sound-space-81b27443e8a2bde62f66.js",
+      "path---performances-tender-buttons-sound-space-81b27443e8a2bde62f66.js.map"
+    ]
+  }
+}
