@@ -11,7 +11,7 @@
     "gatsby-plugin-sitemap": "^1.2.25",
     "gh-pages": "^1.2.0",
     "moment": "^2.22.2",
-    "moment-timezone": "^0.5.20"
+    "moment-timezone": "^0.5.35"
   },
   "license": "MIT",
   "main": "n/a",
