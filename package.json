@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "gatsby": "^1.9.270",
+    "gatsby": "^5.3.3",
     "gatsby-link": "^1.6.30",
-    "gatsby-plugin-less": "^1.1.6",
+    "gatsby-plugin-less": "^7.3.0",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-sitemap": "^1.2.25",
     "gh-pages": "^1.2.0",
